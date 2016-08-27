@@ -1,7 +1,7 @@
 name: Annie Lynne // Design
 favicon: null
-layout_spectrum: 0
-typography_spectrum: 0.11182
+layout_spectrum: 0.6983509939163923
+typography_spectrum: 0.3063707200344652
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ffffff'
-    - '#000000'
-    - '#ebdf1b'
-    - '#ad9e7d'
-    - '#666e71'
-  brandStrength: 0.9375
-  lightness: 0.375
-  saturation: 0.6875
-  rhythmicContrast: 0.75
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.970508111640811
+  lightness: 0.28512167651206255
+  saturation: 0.8088449710048735
+  rhythmicContrast: 0.4256097599864006
 purpose: []
